@@ -1,0 +1,4 @@
+a = array = list(map(int, input("Enter the elements of the array separated by space: ").split()))
+max_element = a[0]
+a.sort();
+print(a[1])
