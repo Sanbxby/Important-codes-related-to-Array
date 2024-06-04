@@ -1,0 +1,5 @@
+def reverseList(a):
+    print( a[::-1])
+
+a = array = list(map(int, input("Enter the elements of the array separated by space: ").split()))
+reverseList(a)
